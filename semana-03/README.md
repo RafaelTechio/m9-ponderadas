@@ -15,3 +15,11 @@ Extendendo a introdução do TDD, já descrita na ponderada da semana 1, a ponde
 - Estrutura de Projetos:
 
 ![image](https://github.com/user-attachments/assets/3deb5285-007f-4ace-b7a7-2cb43cafd648)
+
+- Execução de Testes:
+
+![image](https://github.com/user-attachments/assets/691630c8-6625-4326-a2d6-3ce693ae4da9)
+
+- Comentários do Código:
+
+![image](https://github.com/user-attachments/assets/d85e98f5-b8dd-40ee-ae11-8a22a1129fd0)
