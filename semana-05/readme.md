@@ -41,3 +41,30 @@ npx cypress open
 
 ![image](https://github.com/user-attachments/assets/3475d4fe-dc14-4b2b-a485-b6df0edb5987)
 
+## Editando Teste:
+
+![image](https://github.com/user-attachments/assets/e595540f-2a3d-4783-9ac1-845fe3e01a4a)
+
+## Executando teste por linha de comando:
+
+![image](https://github.com/user-attachments/assets/ff1e3da7-f09f-495a-8fef-535a0a4ddc8c)
+
+
+## Segundo teste:
+
+![image](https://github.com/user-attachments/assets/b8dbf8c6-4f09-4bc9-97a0-e257c84ddf48)
+
+![image](https://github.com/user-attachments/assets/65d050a7-7bd5-4862-a3b7-fd52b70e04da)
+
+
+## Teste autoral:
+
+Devo entrar em uma página na wikipedia e verificar seu título.
+
+![image](https://github.com/user-attachments/assets/6c37a8d0-2bc0-47ec-a8f4-99d0f4bb4238)
+
+
+![image](https://github.com/user-attachments/assets/6b37f2f6-c0b4-4b5b-a491-0f9f709edd2a)
+
+![image](https://github.com/user-attachments/assets/421a484f-399a-4a97-8927-8f8a0644b230)
+
