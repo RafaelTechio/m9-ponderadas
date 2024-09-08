@@ -4,6 +4,11 @@ Rafael Techio
 
 Essa ponderada é guiada pelo tutorial: https://www.browserstack.com/guide/how-to-test-react-using-cypress.
 
+Através dessa ponderada, ampliando por aqui os comentários de código, pude aplicar conceitos de TDD através de testes de interface automatizados. Dessa forma, podemos extender os conceitos discutidos nas duas últimas ponderadas também para testes de frontend. 
+
+A seguir, detalho como iniciei um projeto cypress, configurei o primeiro teste e executei dois testes que falharam conforme o tutorial. Por fim, executo um terceiro teste na wikipedia que retorna sucesso.
+
+
 ## Criando package.json: 
 
 ![image](https://github.com/user-attachments/assets/c42151ba-e0b0-4eb1-8615-8d9206d7a556)
