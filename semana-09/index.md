@@ -2,6 +2,8 @@
 # Ponderada Semana 9
 Rafael Techio
 
+Comentarios no código (main.go) ampliam e explicam as tecnicas e conceitos do TDD.
+
 ## Passos
 
 Criar main.go:
